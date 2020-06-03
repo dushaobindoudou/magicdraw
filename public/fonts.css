@@ -11,3 +11,9 @@
   src: url("Cascadia.woff2");
   font-display: swap;
 }
+
+@font-face {
+  font-family: "FZSJ-ZHIWNDXSG";
+  src: url("FZSJ-ZHIWNDXSG.woff2");
+  font-display: swap;
+}

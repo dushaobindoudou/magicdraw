@@ -64,6 +64,7 @@ export const FONT_FAMILY = {
   1: "Virgil",
   2: "Helvetica",
   3: "Cascadia",
+  4: "FZSJ-ZHIWNDXSG",
 } as const;
 
 export const CANVAS_ONLY_ACTIONS = ["selectAll"];

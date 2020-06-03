@@ -381,7 +381,7 @@ export const actionChangeFontFamily = register({
   },
   PanelComponent: ({ elements, appState, updateData }) => {
     const options: { value: FontFamily; text: string }[] = [
-      { value: 1, text: t("labels.handDrawn") },
+      { value: 4, text: t("labels.handDrawn") },
       { value: 2, text: t("labels.normal") },
       { value: 3, text: t("labels.code") },
     ];
